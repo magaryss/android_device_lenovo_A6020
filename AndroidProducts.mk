@@ -15,9 +15,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_A6020.mk
+    $(LOCAL_DIR)/rr_A6020.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_A6020-userdebug \
-    arrow_A6020-eng \
-    arrow_A6020-user
+    rr_A6020-userdebug \
+    rr_A6020-eng \
+    rr_A6020-user
